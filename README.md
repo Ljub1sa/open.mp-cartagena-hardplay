@@ -2,6 +2,7 @@
 
 ## Library (koje server koristi)
 * [open.mp RC2](https://github.com/openmultiplayer/open.mp/releases/tag/v1-RC2)
+* [a_mysql](https://github.com/pBlueG/SA-MP-MySQL/releases/tag/R41-4)
 * [YSI](https://github.com/pawn-lang/YSI-Includes)
 
 | Preciznije |
@@ -37,3 +38,10 @@
 <img src="https://user-images.githubusercontent.com/77392179/230466458-a856fc6d-3d5e-4cb8-96db-2c65ef26ce8b.png" width="800">
 <img src="https://user-images.githubusercontent.com/77392179/230466611-322666c6-841b-4645-8b1b-6d6ff3936c4b.png" width="800">
 <img src="https://user-images.githubusercontent.com/77392179/230466929-fe573387-6747-4890-b296-0f3304c2ce60.png" width="800">
+<img src="https://user-images.githubusercontent.com/77392179/230471392-857103bc-d89c-4704-b2b8-59bc81dbae88.png" width="800">
+<img src="https://user-images.githubusercontent.com/77392179/230471653-17970ea3-9713-455f-a8d8-de281dea0f93.png" width="800">
+<img src="https://user-images.githubusercontent.com/77392179/230471728-c7e92d5e-d318-4d96-b883-e06043de639b.png" width="800">
+
+
+https://user-images.githubusercontent.com/77392179/230473396-cff690ad-2031-47f2-9723-7137280c78dd.mp4
+
