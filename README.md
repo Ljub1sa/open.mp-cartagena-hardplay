@@ -41,7 +41,4 @@
 <img src="https://user-images.githubusercontent.com/77392179/230471392-857103bc-d89c-4704-b2b8-59bc81dbae88.png" width="800">
 <img src="https://user-images.githubusercontent.com/77392179/230471653-17970ea3-9713-455f-a8d8-de281dea0f93.png" width="800">
 <img src="https://user-images.githubusercontent.com/77392179/230471728-c7e92d5e-d318-4d96-b883-e06043de639b.png" width="800">
-
-
 https://user-images.githubusercontent.com/77392179/230473396-cff690ad-2031-47f2-9723-7137280c78dd.mp4
-
